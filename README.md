@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">👋Hii I'm Om Patil <br>- 🔭 I’m an IT Engineering Student<br>- 📚 I'm currently learning Android development<br>-💬 Ask me about Java, Kotlin, C++, MySQL, Data Structures<br>- ⚡Know about my Projects and Experience at https://linkedin.com/in/patil-om<br>-📫 How to reach me - om2438164@gmail.com</p>
+<p align="center">👋Hii I'm Om Patil <br>- 🔭 I’m an IT Engineering Student<br> 💬 Ask me about Java, C++, MySQL, Data Structures<br>- ⚡Know about my Projects and Experience at https://linkedin.com/in/patil-om<br>-📫 How to reach me - om2438164@gmail.com</p>
 
 ###
 
