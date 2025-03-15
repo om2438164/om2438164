@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">👋Hii I'm Om Patil <br>- 🔭 I’m an IT Engineering Student<br> 💬 Ask me about Java, C++, Frontend web dev, MySQL, Data Structures<br>- ⚡Know about my Projects and Experience at https://linkedin.com/in/patil-om<br>-📫 How to reach me - patil4om@gmail.com</p>
+<p align="center">👋Hii I'm Om Patil <br>- 🔭 I’m an IT Engineering Student<br> 💬 Ask me about Java, C++, Frontend web dev, MySQL, Data Structures<br>- ⚡Know about my Projects and Experience at https://portfolio-ompatil.vercel.app<br>-📫 How to reach me - patil4om@gmail.com</p>
 
 ###
 
