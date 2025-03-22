@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">👋Hii I'm Om Patil <br>- 🔭 I’m an IT Engineering Student<br> 💬 Ask me about Java, C++, Frontend web dev, MySQL, Data Structures<br>- ⚡Know about my Projects and Experience at https://portfolio-ompatil.vercel.app<br>-📫 How to reach me - patil4om@gmail.com</p>
+<p align="center">👋Hii I'm Om Patil <br>- 🔭 I’m an IT Engineering Student<br> 💬 Ask me about React, C++, Full Stack web dev, MySQL, Data Structures<br>- ⚡Know about my Projects and Experience at https://portfolio-ompatil.vercel.app<br>-📫 How to reach me - patil4om@gmail.com</p>
 
 ###
 
@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg#L1" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -43,7 +43,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg#L1" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg#L1" height="40" alt="Tailwind logo"  />
 </div>
 
 ###
